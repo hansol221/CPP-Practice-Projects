@@ -9,8 +9,8 @@ A simple HTTP server built with C++.
 
 ## How to run
 ```
-g++ http_server.cpp -o http_server
-./http_server
+- g++ http_server.cpp -o http_server
+- ./http_server
 ```
 
 Then open your browser and go to `http://localhost:80`
