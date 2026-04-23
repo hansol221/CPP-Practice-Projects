@@ -8,5 +8,7 @@ A simple memory manager built with C++.
 - Track remaining memory
 
 ## How to run
+```
 - g++ memory_manager.cpp -o memory_manager
 - ./memory_manager
+```
